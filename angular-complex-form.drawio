@@ -1,1 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T12:32:16.133Z" agent="5.0 (Windows)" etag="7f7VUC57d4QxiTKvd-Ag" version="16.0.3" type="github"><diagram id="UrFY7JJGP0IJ15ofWTDI" name="Page-1">5VpZc6s2FP41nkkfyIBYbD/aSXxzO8lMO0mXPCogg1qMGBBe7q+vhIQBCa8xSW7jPMQ+kg7o+47OBgP7ZrH+lsE0eiQBigfADNYD+3YAALDGJvvHJZtKAsZCEmY4EDKrFjzhH0gK5cKwwAHKWxMpITHFaVvokyRBPm3JYJaRVXvanMTtq6YwRJrgyYexLv0LBzQS0hEY1vJ7hMOourLlyf0tYDVZ7iSPYEBWDZF9N7BvMkKo+LZY36CYo1fhItbNdoxubyxDCT1mwSR4Nu/jP5cpfH65/X2TPD6/PBhSyxLGhdzwJAmLGGZM+OuTvHG6qdDISJEEiCu0BvZ0FWGKnlLo89EVMwAmi+gilsNzktAbEpOsXGuLD5fjOG7I5y7/Y/KcZuRf1Bjxyg8bkTeJMorWO3dvbTFl1ojIAtFsw6bIBYZrA7FmVdNoVdxEDQo9KYPScsKtrhpc9kXiewLWYA/W4G1QXwYgV6yRR3VkfjBetoaXBlLIUEp3bl76BPhaTTdPBgVUDkyC4lo6KsNRByrA7gsWR4PltcBxYOQrTP1ojx2ZJx9Zs/wwOQcXM6c4iXGYsDFKUjn7SV6Jr4ZyNEZzeqxR7mZeJ+XjMHc1zAXaBjOxAFNMko/D/dIoSy122/CdDru3OjiweuPA0zhYlq4TJ2lB+4H/XYB220Bbpqv73XEH0r0BPdSNHcU8t/p5MQYj95OBPPq/WjP4bOY81pCe/vH9gf03B+50WlDKnLd7uwfy01PdLeR9oeypKI9tHeWuZA30hXIVC05PS46A97j0Y1ddsasO6bfeUDNHoyOCetaw4yD0x5Fe7Q2AF/Nc7ZV9CfkXPa8RE9gFt3PeRmaVJfoMSZTtZPcSHCih1dMZcIZdh2TYGwN6DagxwOIA5iWLIUPBB+EfkQz/YCcHXrDGHCpey9UJscduByGW2xchXUWmeiRoEWBi0E2KYIRg0E2JXJRdhqTezoStRI6tm2pwAMyuxN7q7VA4GlYoCFHl2klGIxKSBMZ3tXTazojqOQ+EI1Vi+A+idCM7irCgpI0wWmP6N19+7cpfL42R27XUXP7YyB/iPvnN7Uef7YUUmY+OMDwKsxDtSwSsHZlAhmJI8bJ9J5fnRq9875blZidMWuSI2ztccONMXnNho2ZVLpjzjCz4HuuTo/KcBBPepOXuKIZ5jv02SW2WlUA+m8lAfiwtezsKbofNV7KjsZZX+I3ghDZyYqddfdgjr61CWItcBRot3EOKLEWRsCZNUUn9dttvsAa9Bv9eBqnSGiTeZd+NpVZcW4dbdKeTV5Z5QZ9RKaZ1JN9vsguee89mP4Fd2KbV9sUj9zy7UBXZrvu+dqG3DDQvUXsFsrvO/Rr+wBmO27wPwXm8a4pM8L68612Mpj/IUErSgkHFGNsyrkYL1UEIXcC8wnO+kWTzyxf1Du6oxa01dq7PdA+KJuBpmvq2E70H07CTRnogZuRflHFr6CjxwDmPcFWR7bwv30BvBtXxQE8XZYfI9COYhJx9k8w75jV6EswvcGuhKyL4g4sL28wFYknVhDCvLcuxW3wYjgyY7xRvHK/tShyllDs63iiK1D7JDrOq9VQTyXyeo35MT+9xtUOSwSq6nOIkbFme2u5q1vFtQ/zyccnwQMsIxua5cUnVZHmaqr4dFdCspelleGQShpPjRRojmbyqJuITPrj+qvaw7c5VBmGdbRCqKsvTdPVtEXpDUK1XNZrjGKc56vkp0YG2nqd0BqqS4tADITUUXO5tJ/09lRnJFt/EGzvqEbriEd8kCaoKhQ7v+glgVp7pbF92+DiU9f7cQZRF1rSEmXjCkH9OqA2lUW13PEd29ni1y0OtN79KmEUqUSLbeHiWH650ryjyo4R3+WO+74SUGRKPO/V7gXNG5gDc8GHho4F5//z4IEc+K3Neu+A0qn7noXcALPN08tjP+h1aEQXqV5Htu/8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-22T12:33:01.202Z" agent="5.0 (Windows)" etag="XnanlgSIU8ue_Ik6geLk" version="16.0.3" type="github">
+  <diagram id="UrFY7JJGP0IJ15ofWTDI" name="Page-1">
+    <mxGraphModel dx="2190" dy="2129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-1" value="Angular JS" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-427" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-2" value="Angular 2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-3" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-290" y="510" width="780" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-4" value="build-switch" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;fontStyle=1;align=left;" parent="AdT0HlVvpaTYDQynMTYL-3" vertex="1">
+          <mxGeometry width="780" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-5" value="switch-condition" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;fontStyle=1" parent="AdT0HlVvpaTYDQynMTYL-3" vertex="1">
+          <mxGeometry x="30" y="40" width="710" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-6" value="var input" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1" parent="AdT0HlVvpaTYDQynMTYL-3" vertex="1">
+          <mxGeometry x="50" y="105" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-7" value="select" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1" parent="AdT0HlVvpaTYDQynMTYL-3" vertex="1">
+          <mxGeometry x="285" y="105" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-8" value="var input" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1" parent="AdT0HlVvpaTYDQynMTYL-3" vertex="1">
+          <mxGeometry x="520" y="105" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-9" value="BUILD [Button]" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="AdT0HlVvpaTYDQynMTYL-3" vertex="1">
+          <mxGeometry x="620" y="193" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-10" value="build-switch" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="-40" width="617" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-11" value="&lt;b&gt;switch-condition&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="60" width="470" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-12" value="&lt;b&gt;variable-input&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="150" width="395" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-13" value="&lt;b&gt;studio-typeahead&lt;/b&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="320" y="290" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AdT0HlVvpaTYDQynMTYL-13" target="AdT0HlVvpaTYDQynMTYL-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-15" value="Event: user&amp;nbsp; select from typeahead" style="endArrow=classic;html=1;rounded=0;fontColor=#FF3333;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="386" as="sourcePoint" />
+            <mxPoint x="545" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-16" value="Input: parent control &lt;br&gt;[AbstractControl]" style="endArrow=classic;html=1;rounded=0;fontColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="301" y="285" as="sourcePoint" />
+            <mxPoint x="301" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-17" value="Event: user select or input" style="endArrow=classic;html=1;rounded=0;fontColor=#FF3333;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479" y="272" as="sourcePoint" />
+            <mxPoint x="479" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-18" value="Input: prepopulated input&amp;nbsp;&lt;br&gt;value (if any)" style="endArrow=classic;html=1;rounded=0;fontColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="58" y="194.5" as="sourcePoint" />
+            <mxPoint x="58" y="264.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-19" value="Input: typeahead values" style="endArrow=classic;html=1;rounded=0;fontColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="174" y="284" as="sourcePoint" />
+            <mxPoint x="174" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-20" value="Event:&amp;nbsp; switch changes of&amp;nbsp; condition and two params" style="endArrow=classic;html=1;rounded=0;fontColor=#FF3333;" parent="1" edge="1">
+          <mxGeometry x="-0.1143" y="-47" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="446" y="140" as="sourcePoint" />
+            <mxPoint x="446" y="70" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-21" value="Input: pre-existing switch condition&lt;br&gt;&amp;nbsp;(if any)" style="endArrow=classic;html=1;rounded=0;fontColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-62" y="90.5" as="sourcePoint" />
+            <mxPoint x="-62" y="160.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-22" value="condition type: simple or&lt;br&gt;complex" style="endArrow=classic;html=1;rounded=0;fontColor=#0000FF;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-215" y="91.5" as="sourcePoint" />
+            <mxPoint x="-215" y="161.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-23" value="AbstractControl" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="365" y="372" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-24" value="FormGroup&lt;br&gt;(of one input)" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="90" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-25" value="FormGroup&lt;br&gt;(of two var-inputs)" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="35" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AdT0HlVvpaTYDQynMTYL-26" value="Grouping of switch-conds&amp;nbsp;&lt;br&gt;(technically not an Angular form, native HTML form)" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-268" y="-86" width="190" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
